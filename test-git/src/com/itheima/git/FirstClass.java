@@ -7,8 +7,10 @@ public class FirstClass {
         System.out.println("idea git");
         System.out.println("idea git");
         System.out.println("idea git");
+        //
     }
     public void test(){
         System.out.println("修改");
+        System.out.println("第二次修改");
     }
 }
